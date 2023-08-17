@@ -1,6 +1,6 @@
 # 声明方法
 
 ```rust
-let mut v = Vec::new
-
+use std::collections::HashMap;
+let mut map = HashMap::new();
 ```
